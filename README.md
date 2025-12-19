@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Biosensor Population Analysis & Microbial Correlation Pipeline
 
 **Project Scope:** Longitudinal Validation of 45-Subject Prototype Sensor Cohort
@@ -130,5 +129,4 @@ I have generated the following artifacts in the `results/` directory:
 
 * `batch_summary_report.csv`: Individual-level engineering KPIs.
 * `final_integrated_clinical_report.csv`: Integrated master dataset for further analysis.
->>>>>>> f0a56f77262ae95fad99cf0d3804f291bf045502
 * `microbe_importance.png`: Visual discovery of microbial drivers of sensor inaccuracy.
